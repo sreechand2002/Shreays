@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sreechand R/Downloads/sqlite-jdbc-3.7.2.jar/sqlite-jdbc-3.7.2.jar"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Sreechand R/Downloads/freetts-1.2.2-bin/freetts-1.2/lib/jar/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sreechand R/Downloads/freetts-1.2.2-bin/freetts-1.2/lib/jar/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sreechand R/Downloads/freetts-1.2.2-bin/freetts-1.2/lib/jar/cmudict04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sreechand R/Downloads/freetts-1.2.2-bin/freetts-1.2/lib/jar/cmulex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sreechand R/Downloads/freetts-1.2.2-bin/freetts-1.2/lib/jar/cmutimelex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sreechand R/Downloads/freetts-1.2.2-bin/freetts-1.2/lib/jar/en_us.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sreechand R/Downloads/freetts-1.2.2-bin/freetts-1.2/lib/jar/freetts.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sreechand R/Downloads/freetts-1.2.2-bin/freetts-1.2/lib/jar/freetts-jsapi10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sreechand R/Downloads/freetts-1.2.2-bin/freetts-1.2/lib/jar/mbrola.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
